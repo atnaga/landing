@@ -1,0 +1,30 @@
+.coach{
+  width: 150px;
+}
+
+.brand {
+background: white;
+padding: 20px;
+padding-block: 10px;
+padding-bottom: 30px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+box-shadow: 0px 10px 30px rgb(0 0 0 / 20%);
+border-radius: 3px;
+margin: 10px;
+width: 700px;
+}
+
+.brand img {
+  width: 150px;
+  border-radius: 3px;
+}
+
+.brands-inline{
+   list-style: none;
+}
+.brands-inline li{
+  display: inline;
+  padding: 5px;
+}

@@ -1,0 +1,28 @@
+.card {
+    background: #F8F6F0;
+    padding: 30px;
+    width: 400px;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 20%);
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.card img {
+  width: 170px;
+  border-radius: 3px;
+}
+.card a {
+  margin-left: 40px;
+}
+
+.card h4 {
+  text-align: center;
+}
+
+.cards {
+  margin-left: 400px;
+}
